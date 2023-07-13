@@ -1,0 +1,7 @@
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\bin\Debug\Pokemon-Final.exe.config
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\bin\Debug\Pokemon-Final.exe
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\bin\Debug\Pokemon-Final.pdb
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\obj\Debug\Pokemon-Final.csproj.AssemblyReference.cache
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\obj\Debug\Pokemon-Final.csproj.CoreCompileInputs.cache
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\obj\Debug\Pokemon-Final.exe
+G:\Visual Studio proj\Pokemon-Final\Pokemon-Final\obj\Debug\Pokemon-Final.pdb
